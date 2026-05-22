@@ -1,0 +1,1344 @@
+{
+  "search_metadata": {
+    "id": "6a1039786f1e406f0991aced",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/gRE74ErBvrsr9f6UQN_UuA/6a1039786f1e406f0991aced.json",
+    "created_at": "2026-05-22 11:09:44 UTC",
+    "processed_at": "2026-05-22 11:09:44 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=in&curr=INR&tfs=CBwQAhoeEgoyMDI2LTA1LTIzagcIARIDSFlEcgcIARIDREVMQAFIAXABmAEC&tfu=EgIIAQ",
+    "raw_html_file": "https://serpapi.com/searches/gRE74ErBvrsr9f6UQN_UuA/6a1039786f1e406f0991aced.html",
+    "prettify_html_file": "https://serpapi.com/searches/gRE74ErBvrsr9f6UQN_UuA/6a1039786f1e406f0991aced.prettify",
+    "total_time_taken": 0.74
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "type": "2",
+    "departure_id": "HYD",
+    "arrival_id": "DEL",
+    "outbound_date": "2026-05-23",
+    "travel_class": 1,
+    "adults": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 13:00"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 15:25"
+          },
+          "duration": 145,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 6031",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 94 kg"
+          ]
+        }
+      ],
+      "total_duration": 145,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -15
+      },
+      "price": 11379,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1kyUlRZd016RWFDZ2p6V0JBQUdnTkpUbEk0SEhEMFhBPT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIjZFIiwiNjAzMSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 23:50"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-24 02:20"
+          },
+          "duration": 150,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 6025",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 94 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 150,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -15
+      },
+      "price": 11379,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1kyUlRZd01qVWFDZ2p6V0JBQUdnTkpUbEk0SEhEMFhBPT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIjZFIiwiNjAyNSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 22:30"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-24 01:00"
+          },
+          "duration": 150,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 1880",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 150,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 11702,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RFNE9EQWFDZ2kyV3hBQUdnTkpUbEk0SEhERlh3PT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMTg4MCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 23:30"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-24 02:00"
+          },
+          "duration": 150,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 2776",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 150,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 11702,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RJM056WWFDZ2kyV3hBQUdnTkpUbEk0SEhERlh3PT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMjc3NiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 17:30"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 20:00"
+          },
+          "duration": 150,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Akasa Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QP.png",
+          "travel_class": "Economy",
+          "flight_number": "QP 1407",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 96 kg"
+          ]
+        }
+      ],
+      "total_duration": 150,
+      "carbon_emissions": {
+        "this_flight": 96000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -13
+      },
+      "price": 12478,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QP.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pSVURFME1EY2FDZ2krWVJBQUdnTkpUbEk0SEhEd1pRPT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIlFQIiwiMTQwNyJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 14:40"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 16:55"
+          },
+          "duration": 135,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 711",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 94 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 135,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -15
+      },
+      "price": 12429,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1UyUlRjeE1Sb0tDSTFoRUFBYUEwbE9VamdjY0wxbCIsW1siSFlEIiwiMjAyNi0wNS0yMyIsIkRFTCIsbnVsbCwiNkUiLCI3MTEiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 21:00"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 23:25"
+          },
+          "duration": 145,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 890",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 94 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 145,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -15
+      },
+      "price": 12429,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1UyUlRnNU1Cb0tDSTFoRUFBYUEwbE9VamdjY0wxbCIsW1siSFlEIiwiMjAyNi0wNS0yMyIsIkRFTCIsbnVsbCwiNkUiLCI4OTAiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 18:25"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 21:00"
+          },
+          "duration": 155,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 2880",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 155,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 13298,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RJNE9EQWFDZ2p5WnhBQUdnTkpUbEk0SEhESmJBPT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMjg4MCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 20:00"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 22:25"
+          },
+          "duration": 145,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 2520",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 145,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 13298,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RJMU1qQWFDZ2p5WnhBQUdnTkpUbEk0SEhESmJBPT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMjUyMCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 21:30"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 23:55"
+          },
+          "duration": 145,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 2870",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 145,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 13298,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RJNE56QWFDZ2p5WnhBQUdnTkpUbEk0SEhESmJBPT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMjg3MCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 05:20"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 07:45"
+          },
+          "duration": 145,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 709",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 94 kg"
+          ]
+        }
+      ],
+      "total_duration": 145,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -15
+      },
+      "price": 13496,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1UyUlRjd09Sb0tDTGhwRUFBYUEwbE9VamdjY0podSIsW1siSFlEIiwiMjAyNi0wNS0yMyIsIkRFTCIsbnVsbCwiNkUiLCI3MDkiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 06:25"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 08:45"
+          },
+          "duration": 140,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 707",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 94 kg"
+          ]
+        }
+      ],
+      "total_duration": 140,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -15
+      },
+      "price": 13496,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1UyUlRjd054b0tDTGhwRUFBYUEwbE9VamdjY0podSIsW1siSFlEIiwiMjAyNi0wNS0yMyIsIkRFTCIsbnVsbCwiNkUiLCI3MDciXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 11:35"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 13:55"
+          },
+          "duration": 140,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 6202",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 94 kg"
+          ]
+        }
+      ],
+      "total_duration": 140,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -15
+      },
+      "price": 13496,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1kyUlRZeU1ESWFDZ2k0YVJBQUdnTkpUbEk0SEhDWWJnPT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIjZFIiwiNjIwMiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 16:25"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 18:55"
+          },
+          "duration": 150,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 6372",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 94 kg"
+          ]
+        }
+      ],
+      "total_duration": 150,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -15
+      },
+      "price": 13496,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1kyUlRZek56SWFDZ2k0YVJBQUdnTkpUbEk0SEhDWWJnPT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIjZFIiwiNjM3MiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 17:45"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 20:10"
+          },
+          "duration": 145,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 710",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 94 kg"
+          ]
+        }
+      ],
+      "total_duration": 145,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -15
+      },
+      "price": 13496,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1UyUlRjeE1Cb0tDTGhwRUFBYUEwbE9VamdjY0podSIsW1siSFlEIiwiMjAyNi0wNS0yMyIsIkRFTCIsbnVsbCwiNkUiLCI3MTAiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 05:30"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 07:55"
+          },
+          "duration": 145,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 1806",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 145,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 13639,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RFNE1EWWFDZ2pIYWhBQUdnTkpUbEk0SEhDdGJ3PT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMTgwNiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 06:00"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 08:15"
+          },
+          "duration": 135,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Akasa Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QP.png",
+          "travel_class": "Economy",
+          "flight_number": "QP 1405",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 96 kg"
+          ]
+        }
+      ],
+      "total_duration": 135,
+      "carbon_emissions": {
+        "this_flight": 96000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -13
+      },
+      "price": 13878,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QP.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pSVURFME1EVWFDZ2kyYkJBQUdnTkpUbEk0SEhDbmNRPT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIlFQIiwiMTQwNSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 02:15"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 04:40"
+          },
+          "duration": 145,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 706",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 94 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 145,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -15
+      },
+      "price": 15002,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1UyUlRjd05ob0tDSnAxRUFBYUEwbE9VamdjY0w1NiIsW1siSFlEIiwiMjAyNi0wNS0yMyIsIkRFTCIsbnVsbCwiNkUiLCI3MDYiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 10:00"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 12:40"
+          },
+          "duration": 160,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 6281",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 94 kg"
+          ]
+        }
+      ],
+      "total_duration": 160,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -15
+      },
+      "price": 15002,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1kyUlRZeU9ERWFDZ2lhZFJBQUdnTkpUbEk0SEhDK2VnPT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIjZFIiwiNjI4MSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 19:10"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 21:40"
+          },
+          "duration": 150,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 6043",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 94 kg"
+          ]
+        }
+      ],
+      "total_duration": 150,
+      "carbon_emissions": {
+        "this_flight": 94000,
+        "typical_for_this_route": 110000,
+        "difference_percent": -15
+      },
+      "price": 15002,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1kyUlRZd05ETWFDZ2lhZFJBQUdnTkpUbEk0SEhDK2VnPT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIjZFIiwiNjA0MyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 07:30"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 10:00"
+          },
+          "duration": 150,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 2860",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 150,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 15703,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RJNE5qQWFDZ2pYZWhBQUdnTkpUbEk0SEhDYWdBRT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMjg2MCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 08:35"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 10:55"
+          },
+          "duration": 140,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 2466",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 140,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 15703,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RJME5qWWFDZ2pYZWhBQUdnTkpUbEk0SEhDYWdBRT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMjQ2NiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 09:40"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 12:10"
+          },
+          "duration": 150,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 1866",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 150,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 15703,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RFNE5qWWFDZ2pYZWhBQUdnTkpUbEk0SEhDYWdBRT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMTg2NiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 10:35"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 13:05"
+          },
+          "duration": 150,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 2543",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 150,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 15703,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RJMU5ETWFDZ2pYZWhBQUdnTkpUbEk0SEhDYWdBRT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMjU0MyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 12:45"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 15:15"
+          },
+          "duration": 150,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 2559",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 150,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 15703,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RJMU5Ua2FDZ2pYZWhBQUdnTkpUbEk0SEhDYWdBRT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMjU1OSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 15:25"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 18:00"
+          },
+          "duration": 155,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 2541",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 155,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 15703,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RJMU5ERWFDZ2pYZWhBQUdnTkpUbEk0SEhDYWdBRT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMjU0MSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Rajiv Gandhi International Airport",
+            "id": "HYD",
+            "time": "2026-05-23 17:30"
+          },
+          "arrival_airport": {
+            "name": "Indira Gandhi International Airport",
+            "id": "DEL",
+            "time": "2026-05-23 20:10"
+          },
+          "duration": 160,
+          "airplane": "Airbus A320neo",
+          "airline": "Air India",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+          "travel_class": "Economy",
+          "flight_number": "AI 2890",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 110 kg"
+          ]
+        }
+      ],
+      "total_duration": 160,
+      "carbon_emissions": {
+        "this_flight": 110000,
+        "typical_for_this_route": 110000,
+        "difference_percent": 0
+      },
+      "price": 15703,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+      "booking_token": "WyJDalJJZFhKRlZVeDJTelE0VURoQlJFSk1kM2RDUnkwdExTMHRMUzB0TFMxdmEyZHJPVUZCUVVGQlIyOVJUMWhuU25aTFoyVkJFZ1pCU1RJNE9UQWFDZ2pYZWhBQUdnTkpUbEk0SEhDYWdBRT0iLFtbIkhZRCIsIjIwMjYtMDUtMjMiLCJERUwiLG51bGwsIkFJIiwiMjg5MCJdXV0="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 11379,
+    "price_level": "high",
+    "typical_price_range": [
+      5800,
+      6400
+    ],
+    "price_history": [
+      [
+        1774204200,
+        5821
+      ],
+      [
+        1774290600,
+        5821
+      ],
+      [
+        1774377000,
+        5821
+      ],
+      [
+        1774463400,
+        5821
+      ],
+      [
+        1774549800,
+        5321
+      ],
+      [
+        1774636200,
+        5821
+      ],
+      [
+        1774722600,
+        6157
+      ],
+      [
+        1774809000,
+        6157
+      ],
+      [
+        1774895400,
+        6157
+      ],
+      [
+        1774981800,
+        6157
+      ],
+      [
+        1775068200,
+        6153
+      ],
+      [
+        1775154600,
+        6153
+      ],
+      [
+        1775241000,
+        6332
+      ],
+      [
+        1775327400,
+        6332
+      ],
+      [
+        1775413800,
+        6332
+      ],
+      [
+        1775500200,
+        6332
+      ],
+      [
+        1775586600,
+        6331
+      ],
+      [
+        1775673000,
+        6331
+      ],
+      [
+        1775759400,
+        6331
+      ],
+      [
+        1775845800,
+        6331
+      ],
+      [
+        1775932200,
+        6331
+      ],
+      [
+        1776018600,
+        6025
+      ],
+      [
+        1776105000,
+        6024
+      ],
+      [
+        1776191400,
+        6024
+      ],
+      [
+        1776277800,
+        6024
+      ],
+      [
+        1776364200,
+        6024
+      ],
+      [
+        1776450600,
+        6024
+      ],
+      [
+        1776537000,
+        6024
+      ],
+      [
+        1776623400,
+        6024
+      ],
+      [
+        1776709800,
+        6024
+      ],
+      [
+        1776796200,
+        6024
+      ],
+      [
+        1776882600,
+        6024
+      ],
+      [
+        1776969000,
+        6024
+      ],
+      [
+        1777055400,
+        6024
+      ],
+      [
+        1777141800,
+        6024
+      ],
+      [
+        1777228200,
+        6024
+      ],
+      [
+        1777314600,
+        6024
+      ],
+      [
+        1777401000,
+        6024
+      ],
+      [
+        1777487400,
+        6024
+      ],
+      [
+        1777573800,
+        5898
+      ],
+      [
+        1777660200,
+        5898
+      ],
+      [
+        1777746600,
+        5898
+      ],
+      [
+        1777833000,
+        5898
+      ],
+      [
+        1777919400,
+        5898
+      ],
+      [
+        1778005800,
+        5898
+      ],
+      [
+        1778092200,
+        5898
+      ],
+      [
+        1778178600,
+        6187
+      ],
+      [
+        1778265000,
+        6187
+      ],
+      [
+        1778351400,
+        6904
+      ],
+      [
+        1778437800,
+        6904
+      ],
+      [
+        1778524200,
+        7572
+      ],
+      [
+        1778610600,
+        7572
+      ],
+      [
+        1778697000,
+        7866
+      ],
+      [
+        1778783400,
+        8420
+      ],
+      [
+        1778869800,
+        9070
+      ],
+      [
+        1778956200,
+        9208
+      ],
+      [
+        1779042600,
+        9208
+      ],
+      [
+        1779129000,
+        9705
+      ],
+      [
+        1779215400,
+        10184
+      ],
+      [
+        1779301800,
+        10219
+      ],
+      [
+        1779388200,
+        11379
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "HYD",
+            "name": "Rajiv Gandhi International Airport"
+          },
+          "city": "Hyderabad",
+          "country": "India",
+          "country_code": "IN",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZYggVzDR3bBmFCtOJtoteR8sbLdQi7YWrBt50w4pdtQCKQZj7EtTiNrLM6eUDaJqmo7-_seEsSyuA0g",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSguPRMPWcZhK7VZ5lMPYaqwY8CakryY29B4zKHqfsL5SWkeNjLUBPR7wUiWA6dS2QMNQVpinMxrpUoC14UvLkgJ9aaekuKY1YotySb4vI"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "DEL",
+            "name": "Indira Gandhi International Airport"
+          },
+          "city": "New Delhi",
+          "country": "India",
+          "country_code": "IN",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkRqzwP-0z4pH29-KifVzfrxM5wwXx56g3Hoo_ebldH9Fy8a8EjGqPzd3fZqJSKoE5tSIRC2iGJxgqzQ",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY7HqndXM-ihFCu1qUKosYR--X_yXSd-0mkQHeSUaG5rkpq5Y6uxD8CMmYUCdngZE7mV0onuN2zv_aVxGGO8xv4FMcpMlWvbXdvJFcemY"
+        }
+      ]
+    }
+  ]
+}

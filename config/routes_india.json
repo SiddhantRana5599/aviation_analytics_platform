@@ -1,0 +1,63 @@
+[
+  {
+    "source_airport": "DEL",
+    "source_city": "Delhi",
+    "destination_airport": "BOM",
+    "destination_city": "Mumbai"
+  },
+  {
+    "source_airport": "BOM",
+    "source_city": "Mumbai",
+    "destination_airport": "DEL",
+    "destination_city": "Delhi"
+  },
+  {
+    "source_airport": "DEL",
+    "source_city": "Delhi",
+    "destination_airport": "BLR",
+    "destination_city": "Bengaluru"
+  },
+  {
+    "source_airport": "BLR",
+    "source_city": "Bengaluru",
+    "destination_airport": "DEL",
+    "destination_city": "Delhi"
+  },
+  {
+    "source_airport": "BOM",
+    "source_city": "Mumbai",
+    "destination_airport": "BLR",
+    "destination_city": "Bengaluru"
+  },
+  {
+    "source_airport": "PNQ",
+    "source_city": "Pune",
+    "destination_airport": "BLR",
+    "destination_city": "Bengaluru"
+  },
+  {
+    "source_airport": "HYD",
+    "source_city": "Hyderabad",
+    "destination_airport": "DEL",
+    "destination_city": "Delhi"
+  },
+  {
+    "source_airport": "MAA",
+    "source_city": "Chennai",
+    "destination_airport": "BLR",
+    "destination_city": "Bengaluru"
+  },
+  {
+    "source_airport": "CCU",
+    "source_city": "Kolkata",
+    "destination_airport": "DEL",
+    "destination_city": "Delhi"
+  },
+  {
+    "source_airport": "GOI",
+    "source_city": "Goa",
+    "destination_airport": "BOM",
+    "destination_city": "Mumbai"
+  }
+]
+

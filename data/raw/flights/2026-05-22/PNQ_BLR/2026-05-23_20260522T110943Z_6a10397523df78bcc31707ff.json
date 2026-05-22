@@ -1,0 +1,843 @@
+{
+  "search_metadata": {
+    "id": "6a10397523df78bcc31707ff",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/A7auqLpnmZUsIOWRIbI56g/6a10397523df78bcc31707ff.json",
+    "created_at": "2026-05-22 11:09:41 UTC",
+    "processed_at": "2026-05-22 11:09:41 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=in&curr=INR&tfs=CBwQAhoeEgoyMDI2LTA1LTIzagcIARIDUE5RcgcIARIDQkxSQAFIAXABmAEC&tfu=EgIIAQ",
+    "raw_html_file": "https://serpapi.com/searches/A7auqLpnmZUsIOWRIbI56g/6a10397523df78bcc31707ff.html",
+    "prettify_html_file": "https://serpapi.com/searches/A7auqLpnmZUsIOWRIbI56g/6a10397523df78bcc31707ff.prettify",
+    "total_time_taken": 0.57
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "in",
+    "type": "2",
+    "departure_id": "PNQ",
+    "arrival_id": "BLR",
+    "outbound_date": "2026-05-23",
+    "travel_class": 1,
+    "adults": 1,
+    "currency": "INR"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 23:50"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-24 01:30"
+          },
+          "duration": 100,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 6055",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 60 kg"
+          ]
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": {
+        "this_flight": 61000,
+        "typical_for_this_route": 69000,
+        "difference_percent": -12
+      },
+      "price": 5160,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1kyUlRZd05UVWFDZ2lvS0JBQUdnTkpUbEk0SEhDUUtnPT0iLFtbIlBOUSIsIjIwMjYtMDUtMjMiLCJCTFIiLG51bGwsIjZFIiwiNjA1NSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 18:55"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 20:40"
+          },
+          "duration": 105,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Air India Express",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IX.png",
+          "travel_class": "Economy",
+          "flight_number": "IX 2874",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 75 kg"
+          ]
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": {
+        "this_flight": 75000,
+        "typical_for_this_route": 69000,
+        "difference_percent": 9
+      },
+      "price": 5552,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IX.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1pKV0RJNE56UWFDZ2l3S3hBQUdnTkpUbEk0SEhDcUxRPT0iLFtbIlBOUSIsIjIwMjYtMDUtMjMiLCJCTFIiLG51bGwsIklYIiwiMjg3NCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 22:10"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 23:55"
+          },
+          "duration": 105,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Akasa Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QP.png",
+          "travel_class": "Economy",
+          "flight_number": "QP 1318",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 61 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": {
+        "this_flight": 61000,
+        "typical_for_this_route": 69000,
+        "difference_percent": -12
+      },
+      "price": 6660,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QP.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1pSVURFek1UZ2FDZ2lFTkJBQUdnTkpUbEk0SEhDd05nPT0iLFtbIlBOUSIsIjIwMjYtMDUtMjMiLCJCTFIiLG51bGwsIlFQIiwiMTMxOCJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 20:55"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 22:35"
+          },
+          "duration": 100,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 107",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 60 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": {
+        "this_flight": 61000,
+        "typical_for_this_route": 69000,
+        "difference_percent": -12
+      },
+      "price": 6515,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1UyUlRFd054b0tDUE15RUFBYUEwbE9VamdjY0prMSIsW1siUE5RIiwiMjAyNi0wNS0yMyIsIkJMUiIsbnVsbCwiNkUiLCIxMDciXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 01:15"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 02:55"
+          },
+          "duration": 100,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 361",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 60 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": {
+        "this_flight": 61000,
+        "typical_for_this_route": 69000,
+        "difference_percent": -12
+      },
+      "price": 7062,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1UyUlRNMk1Sb0tDSlkzRUFBYUEwbE9VamdjY05RNSIsW1siUE5RIiwiMjAyNi0wNS0yMyIsIkJMUiIsbnVsbCwiNkUiLCIzNjEiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 03:15"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 04:55"
+          },
+          "duration": 100,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 6564",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 60 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": {
+        "this_flight": 61000,
+        "typical_for_this_route": 69000,
+        "difference_percent": -12
+      },
+      "price": 7062,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1kyUlRZMU5qUWFDZ2lXTnhBQUdnTkpUbEk0SEhEVU9RPT0iLFtbIlBOUSIsIjIwMjYtMDUtMjMiLCJCTFIiLG51bGwsIjZFIiwiNjU2NCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 04:50"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 06:35"
+          },
+          "duration": 105,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 6877",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 60 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": {
+        "this_flight": 61000,
+        "typical_for_this_route": 69000,
+        "difference_percent": -12
+      },
+      "price": 7062,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1kyUlRZNE56Y2FDZ2lXTnhBQUdnTkpUbEk0SEhEVU9RPT0iLFtbIlBOUSIsIjIwMjYtMDUtMjMiLCJCTFIiLG51bGwsIjZFIiwiNjg3NyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 16:55"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 18:35"
+          },
+          "duration": 100,
+          "airplane": "Airbus A320neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 137",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 65 kg"
+          ]
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": {
+        "this_flight": 65000,
+        "typical_for_this_route": 69000,
+        "difference_percent": -6
+      },
+      "price": 7062,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1UyUlRFek54b0tDSlkzRUFBYUEwbE9VamdjY05RNSIsW1siUE5RIiwiMjAyNi0wNS0yMyIsIkJMUiIsbnVsbCwiNkUiLCIxMzciXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 06:40"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 08:30"
+          },
+          "duration": 110,
+          "airplane": "Airbus A321neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 391",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 60 kg"
+          ]
+        }
+      ],
+      "total_duration": 110,
+      "carbon_emissions": {
+        "this_flight": 61000,
+        "typical_for_this_route": 69000,
+        "difference_percent": -12
+      },
+      "price": 7664,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1UyUlRNNU1Sb0tDUEE3RUFBYUEwbE9VamdjY01rKyIsW1siUE5RIiwiMjAyNi0wNS0yMyIsIkJMUiIsbnVsbCwiNkUiLCIzOTEiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 17:35"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 19:15"
+          },
+          "duration": 100,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Akasa Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QP.png",
+          "travel_class": "Economy",
+          "flight_number": "QP 1316",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 61 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": {
+        "this_flight": 61000,
+        "typical_for_this_route": 69000,
+        "difference_percent": -12
+      },
+      "price": 7951,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QP.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1pSVURFek1UWWFDZ2lQUGhBQUdnTkpUbEk0SEhEMVFBPT0iLFtbIlBOUSIsIjIwMjYtMDUtMjMiLCJCTFIiLG51bGwsIlFQIiwiMTMxNiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 10:55"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 12:30"
+          },
+          "duration": 95,
+          "airplane": "Airbus A320neo",
+          "airline": "IndiGo",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+          "travel_class": "Economy",
+          "flight_number": "6E 133",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 65 kg"
+          ]
+        }
+      ],
+      "total_duration": 95,
+      "carbon_emissions": {
+        "this_flight": 65000,
+        "typical_for_this_route": 69000,
+        "difference_percent": -6
+      },
+      "price": 8325,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1UyUlRFek14b0tDSVZCRUFBYUEwbE9VamdjY1B4RCIsW1siUE5RIiwiMjAyNi0wNS0yMyIsIkJMUiIsbnVsbCwiNkUiLCIxMzMiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 07:25"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 09:05"
+          },
+          "duration": 100,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Akasa Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QP.png",
+          "travel_class": "Economy",
+          "flight_number": "QP 1312",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 64 kg"
+          ]
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": {
+        "this_flight": 64000,
+        "typical_for_this_route": 69000,
+        "difference_percent": -7
+      },
+      "price": 9202,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QP.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1pSVURFek1USWFDZ2p5UnhBQUdnTkpUbEk0SEhDUlN3PT0iLFtbIlBOUSIsIjIwMjYtMDUtMjMiLCJCTFIiLG51bGwsIlFQIiwiMTMxMiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 00:05"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 01:40"
+          },
+          "duration": 95,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Air India Express",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IX.png",
+          "travel_class": "Economy",
+          "flight_number": "IX 2681",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 75 kg"
+          ]
+        }
+      ],
+      "total_duration": 95,
+      "carbon_emissions": {
+        "this_flight": 75000,
+        "typical_for_this_route": 69000,
+        "difference_percent": 9
+      },
+      "price": 18933,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IX.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1pKV0RJMk9ERWFDd2oxa3dFUUFCb0RTVTVTT0J4d3lwb0IiLFtbIlBOUSIsIjIwMjYtMDUtMjMiLCJCTFIiLG51bGwsIklYIiwiMjY4MSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Pune International Airport",
+            "id": "PNQ",
+            "time": "2026-05-23 21:10"
+          },
+          "arrival_airport": {
+            "name": "Kempegowda International Airport Bengaluru",
+            "id": "BLR",
+            "time": "2026-05-23 22:55"
+          },
+          "duration": 105,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Air India Express",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IX.png",
+          "travel_class": "Economy",
+          "flight_number": "IX 2839",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 75 kg"
+          ]
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": {
+        "this_flight": 75000,
+        "typical_for_this_route": 69000,
+        "difference_percent": 9
+      },
+      "price": 18933,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IX.png",
+      "booking_token": "WyJDalJJVUUxNGEydDJTRXQzVWpSQlFqTjZZa0ZDUnkwdExTMHRMUzB0TFhscGRHUXhORUZCUVVGQlIyOVJUMWhaUWxCYUxVZEJFZ1pKV0RJNE16a2FDd2oxa3dFUUFCb0RTVTVTT0J4d3lwb0IiLFtbIlBOUSIsIjIwMjYtMDUtMjMiLCJCTFIiLG51bGwsIklYIiwiMjgzOSJdXV0="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 5160,
+    "price_level": "high",
+    "typical_price_range": [
+      4650,
+      4850
+    ],
+    "price_history": [
+      [
+        1774204200,
+        4665
+      ],
+      [
+        1774290600,
+        4665
+      ],
+      [
+        1774377000,
+        4665
+      ],
+      [
+        1774463400,
+        4665
+      ],
+      [
+        1774549800,
+        4665
+      ],
+      [
+        1774636200,
+        5064
+      ],
+      [
+        1774722600,
+        4665
+      ],
+      [
+        1774809000,
+        4665
+      ],
+      [
+        1774895400,
+        4665
+      ],
+      [
+        1774981800,
+        4665
+      ],
+      [
+        1775068200,
+        4665
+      ],
+      [
+        1775154600,
+        4788
+      ],
+      [
+        1775241000,
+        4665
+      ],
+      [
+        1775327400,
+        4665
+      ],
+      [
+        1775413800,
+        4665
+      ],
+      [
+        1775500200,
+        4665
+      ],
+      [
+        1775586600,
+        4788
+      ],
+      [
+        1775673000,
+        4788
+      ],
+      [
+        1775759400,
+        4788
+      ],
+      [
+        1775845800,
+        4788
+      ],
+      [
+        1775932200,
+        4788
+      ],
+      [
+        1776018600,
+        4788
+      ],
+      [
+        1776105000,
+        4788
+      ],
+      [
+        1776191400,
+        4788
+      ],
+      [
+        1776277800,
+        4788
+      ],
+      [
+        1776364200,
+        4788
+      ],
+      [
+        1776450600,
+        4788
+      ],
+      [
+        1776537000,
+        4788
+      ],
+      [
+        1776623400,
+        4788
+      ],
+      [
+        1776709800,
+        4788
+      ],
+      [
+        1776796200,
+        4788
+      ],
+      [
+        1776882600,
+        4788
+      ],
+      [
+        1776969000,
+        4788
+      ],
+      [
+        1777055400,
+        4788
+      ],
+      [
+        1777141800,
+        4788
+      ],
+      [
+        1777228200,
+        4788
+      ],
+      [
+        1777314600,
+        4788
+      ],
+      [
+        1777401000,
+        4788
+      ],
+      [
+        1777487400,
+        4788
+      ],
+      [
+        1777573800,
+        4788
+      ],
+      [
+        1777660200,
+        4788
+      ],
+      [
+        1777746600,
+        4788
+      ],
+      [
+        1777833000,
+        4737
+      ],
+      [
+        1777919400,
+        4788
+      ],
+      [
+        1778005800,
+        4788
+      ],
+      [
+        1778092200,
+        4788
+      ],
+      [
+        1778178600,
+        4788
+      ],
+      [
+        1778265000,
+        4788
+      ],
+      [
+        1778351400,
+        4788
+      ],
+      [
+        1778437800,
+        4788
+      ],
+      [
+        1778524200,
+        4788
+      ],
+      [
+        1778610600,
+        4788
+      ],
+      [
+        1778697000,
+        4788
+      ],
+      [
+        1778783400,
+        4788
+      ],
+      [
+        1778869800,
+        4788
+      ],
+      [
+        1778956200,
+        4788
+      ],
+      [
+        1779042600,
+        4788
+      ],
+      [
+        1779129000,
+        4788
+      ],
+      [
+        1779215400,
+        4788
+      ],
+      [
+        1779301800,
+        4788
+      ],
+      [
+        1779388200,
+        5160
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "PNQ",
+            "name": "Pune International Airport"
+          },
+          "city": "Pune",
+          "country": "India",
+          "country_code": "IN",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBiAgGg-eU4YXi_JsRV5bBxZGldsGn94VXHQOp3PxK63wRjPs_yUW2taNVLYix_SPBvejw4776PSAoFw",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXucf-z8YAwMWssJ_qV5GpIyJ3-sPWxWOOATL2xtnM4OGkjVhGJ6JYq7lf0jHynhKiXTnmTG4cVg2AWj7Q2wwPtQeKhwPY8EHNF6p4RZM"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "BLR",
+            "name": "Kempegowda International Airport Bengaluru"
+          },
+          "city": "Bengaluru",
+          "country": "India",
+          "country_code": "IN",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIQIUfZg6v3rdHMVD96D5vTNuXwVO7zsdZy0l7s2uiyV-xuK8nJlokAp_ChoLy9r0vjJWcOOBkEvBI2g",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFrS_QMxzjURYrYSPiuRW9uR9imYuBAhdE49jwKag7Ucgl0en4CNAtP0hf1MDSGdvhAw2s1-2w71_b-pcIyFOM1F1yMSPQLO5_XlgJc_4"
+        }
+      ]
+    }
+  ]
+}
