@@ -1,0 +1,65 @@
+project:
+  name: skypulse
+  timezone: Asia/Kolkata
+
+kafka:
+  bootstrap_servers: localhost:9092
+  topic: flight_fares_stream
+  security_protocol: PLAINTEXT
+
+producer:
+  source_csv_path: data/raw/flight_fares.csv
+  publish_interval_seconds: 0.5
+  max_rows: 0
+  required_cities:
+    - Pune
+    - Mumbai
+    - Delhi
+    - Bangalore
+    - Hyderabad
+    - Chennai
+    - Kolkata
+    - Ahmedabad
+
+schema_mapping:
+  airline: airline
+  source_city: source_city
+  destination_city: destination_city
+  departure_time: departure_time
+  arrival_time: arrival_time
+  duration: duration
+  total_stops: total_stops
+  price: price
+  date: date
+
+streaming:
+  watermark_delay: 10 minutes
+  window_duration: 15 minutes
+  slide_duration: 5 minutes
+  checkpoint_base_path: /tmp/skypulse/checkpoints
+
+delta:
+  bronze_path: /tmp/skypulse/bronze/flight_fare_events
+  silver_path: /tmp/skypulse/silver/flight_fare_events_clean
+  gold_route_window_path: /tmp/skypulse/gold/route_price_windows
+  gold_route_daily_path: /tmp/skypulse/gold/route_daily_metrics
+  gold_ml_features_path: /tmp/skypulse/gold/ml_fare_features
+  database_bronze: skypulse_bronze
+  database_silver: skypulse_silver
+  database_gold: skypulse_gold
+
+ml:
+  model_output_path: /tmp/skypulse/models/flight_price_regressor
+  label_column: price
+  categorical_features:
+    - airline
+    - source_city
+    - destination_city
+    - departure_time
+    - total_stops
+  numeric_features:
+    - duration
+    - days_to_departure
+    - travel_month
+    - travel_day_of_week
+

@@ -1,0 +1,9 @@
+airline,source_city,destination_city,departure_time,arrival_time,duration,total_stops,price,date
+IndiGo,Pune,Delhi,Morning,Afternoon,2.25,zero,6200,2026-06-01
+Air India,Mumbai,Bangalore,Evening,Night,1.75,zero,5400,2026-06-02
+Vistara,Delhi,Pune,Afternoon,Evening,2.1,zero,7100,2026-06-03
+Akasa Air,Bangalore,Hyderabad,Morning,Morning,1.2,zero,3900,2026-06-04
+SpiceJet,Hyderabad,Chennai,Night,Late Night,1.35,zero,4200,2026-06-05
+IndiGo,Chennai,Kolkata,Evening,Night,2.4,one,6800,2026-06-06
+Air India,Kolkata,Ahmedabad,Morning,Afternoon,3.0,one,7600,2026-06-07
+Vistara,Ahmedabad,Mumbai,Afternoon,Evening,1.3,zero,4500,2026-06-08
